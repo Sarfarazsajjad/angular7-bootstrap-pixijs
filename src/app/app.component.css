@@ -1,0 +1,11 @@
+.search-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  /* height: 100%; */
+}
+
+.search-bar{
+  width: 35rem;
+}
